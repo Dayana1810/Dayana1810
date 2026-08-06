@@ -1,4 +1,4 @@
-[Dayan Cv.pdf](https://github.com/user-attachments/files/30776926/Dayan.Cv.pdf)# DAYANA — Data Analyst Portfolio
+# DAYANA — Data Analyst Portfolio
 
 A clean, responsive personal portfolio website for a fresher Data Analyst. Built with plain HTML, CSS, and JavaScript — no frameworks, no build steps. Deploy in minutes.
 
@@ -29,6 +29,6 @@ A clean, responsive personal portfolio website for a fresher Data Analyst. Built
 
 ## 📌 Next steps to strengthen your profile
 - Add links to your actual project GitHub repos inside each project card (`href` on the card or a "View →" button)
-- Add a downloadable resume: put `(Uploading Dayan Cv.pdf…)` in the folder and link it in the hero
+- Add a downloadable resume: put `[Dayan Cv.pdf](https://github.com/user-attachments/files/30776926/Dayan.Cv.pdf)` in the folder and link it in the hero
 - Add a profile photo: put `avatar.jpg` in the folder and add an `<img>` tag in the hero
 - Fill in real certification names/dates as you complete them
