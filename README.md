@@ -1,4 +1,4 @@
-# [Your Name] — Data Analyst Portfolio
+# [DAYANA] — Data Analyst Portfolio
 
 A clean, responsive personal portfolio website for a fresher Data Analyst. Built with plain HTML, CSS, and JavaScript — no frameworks, no build steps. Deploy in minutes.
 
@@ -21,15 +21,14 @@ Open `index.html` and search for these placeholders — replace them with your r
 
 | Placeholder | What to fill in |
 |---|---|
-| `[Your Name]` | Your full name |
-| `[Your Degree]` | e.g. B.Sc. Statistics |
-| `[Your Major]` | e.g. Computer Science |
-| `[Your University / College Name]` | College name |
-| `[Year]` | Graduation year |
-| `[X.X]` | Your GPA (or remove) |
-| `youremail@gmail.com` | Your email address |
-| `yourprofile` | Your LinkedIn username |
-| `yourgithub` | Your GitHub username |
+| `[DAYANA]` | Your full name |
+| `[Your Degree]` | e.g. B.Com |
+| `[Your Major]` | e.g. Accounting |
+| `[Your University / College Name]` |Dharwad |
+| `[Year]` | 2024 |
+| `youremail@gmail.com` | dayanacharya@gmail.com |
+| `yourprofile` | Dayana Acharya |
+| `yourgithub` | Dayana|
 
 ## 🌐 Deploy on Vercel (free)
 
