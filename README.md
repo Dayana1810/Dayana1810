@@ -7,15 +7,7 @@ A clean, responsive personal portfolio website for a fresher Data Analyst. Built
 - Google Fonts (Space Grotesk + Space Mono)
 - Deployed on Vercel (static)
 
-## 📁 File structure
-```
-portfolio/
-├── index.html       ← entire site (single file)
-├── README.md
-└── vercel.json      ← tells Vercel to serve index.html
-```
-
-## ✏️ How to personalise
+# ✏️ How to personalise
 
 Open `index.html` and search for these placeholders — replace them with your real info:
 
