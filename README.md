@@ -1,4 +1,4 @@
-# [DAYANA] — Data Analyst Portfolio
+# DAYANA — Data Analyst Portfolio
 
 A clean, responsive personal portfolio website for a fresher Data Analyst. Built with plain HTML, CSS, and JavaScript — no frameworks, no build steps. Deploy in minutes.
 
@@ -21,7 +21,7 @@ Open `index.html` and search for these placeholders — replace them with your r
 
 | Placeholder | What to fill in |
 |---|---|
-| `[DAYANA]` | Your full name |
+| `DAYANA` |  |
 | `[Your Degree]` | e.g. B.Com |
 | `[Your Major]` | e.g. Accounting |
 | `[Your University / College Name]` |Dharwad |
