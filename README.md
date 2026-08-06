@@ -22,7 +22,7 @@ Open `index.html` and search for these placeholders — replace them with your r
 | Placeholder | What to fill in |
 |---|---|
 | `Your Name` | `DAYANA` |  
-| `Your Degree` | `B.Com` |
+| `Your Degree` | `Bachelor of Commerce (B.Com)` |
 | `Your Major` | `Accounting` |
 | `Your University / College Name` | `Dharwad` |
 | `Year` | `2024` |
