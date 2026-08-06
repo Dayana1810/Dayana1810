@@ -9,8 +9,6 @@ A clean, responsive personal portfolio website for a fresher Data Analyst. Built
 
 # ✏️ How to personalise
 
-Open `index.html` and search for these placeholders — replace them with your real info:
-
 | Placeholder | What to fill in |
 |---|---|
 | `Your Name` | `DAYANA` |  
