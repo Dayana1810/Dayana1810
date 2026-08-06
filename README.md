@@ -21,14 +21,14 @@ Open `index.html` and search for these placeholders — replace them with your r
 
 | Placeholder | What to fill in |
 |---|---|
-| `Your Name` || `DAYANA` |  
+| `Your Name` | `DAYANA` |  
 | `Your Degree` | B.Com |
 | `Your Major` |  Accounting |
 | `Your University / College Name` |Dharwad |
 | `Year` | 2024 |
 | `youremail@gmail.com` | dayanacharya@gmail.com |
-| `yourprofile` | Dayana Acharya |
-| `yourgithub` | Dayana|
+| `your Linkedin profile` | https://www.linkedin.com/in/dayana-acharya-254560382/ |
+| `your github` | Dayana|
 
 ## 🌐 Deploy on Vercel (free)
 
