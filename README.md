@@ -21,7 +21,7 @@ Open `index.html` and search for these placeholders — replace them with your r
 
 | Placeholder | What to fill in |
 |---|---|
-| `Your Name` || `DAYANA` |  |
+| `Your Name` || `DAYANA` |  
 | `Your Degree` | B.Com |
 | `Your Major` |  Accounting |
 | `Your University / College Name` |Dharwad |
