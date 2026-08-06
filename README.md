@@ -22,13 +22,13 @@ Open `index.html` and search for these placeholders — replace them with your r
 | Placeholder | What to fill in |
 |---|---|
 | `Your Name` | `DAYANA` |  
-| `Your Degree` | B.Com |
-| `Your Major` |  Accounting |
-| `Your University / College Name` |Dharwad |
-| `Year` | 2024 |
-| `youremail@gmail.com` | dayanacharya@gmail.com |
-| `your Linkedin profile` | https://www.linkedin.com/in/dayana-acharya-254560382/ |
-| `your github` | Dayana|
+| `Your Degree` | `B.Com` |
+| `Your Major` | `Accounting` |
+| `Your University / College Name` | `Dharwad` |
+| `Year` | `2024` |
+| `youremail@gmail.com` | `dayanacharya@gmail.com` |
+| `your Linkedin profile` | `https://www.linkedin.com/in/dayana-acharya-254560382/` |
+| `your github profile` | `https://github.com/Dayana1810`|
 
 ## 🌐 Deploy on Vercel (free)
 
