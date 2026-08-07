@@ -32,3 +32,48 @@ A clean, responsive personal portfolio website for a fresher Data Analyst. Built
 - Add a downloadable resume: put `  ` in the folder and link it in the hero
 - Add a profile photo: put `avatar.jpg` in the folder and add an `<img>` tag in the hero
 - Fill in real certification names/dates as you complete them
+
+
+# 💫 About Me:
+Hi, I’m a Data Analyst passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.<br><br>🔹 Skilled in Excel, SQL/MySQL, Power BI, and Tableau<br>🔹 Experienced in data cleaning, analysis, visualization, and dashboard development<br>🔹 Always learning new tools and techniques to improve my analytical skills<br><br>📊 Turning Data into Insights | Building Dashboards | Solving Business Problems
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dayana Acharya) 
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TABLEAU](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![POWER BI](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dayana1810&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dayana1810&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?
+
+---
+[![](https://komarev.com/ghpvc/?username=Dayana1810&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
