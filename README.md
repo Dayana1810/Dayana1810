@@ -7,8 +7,26 @@
 Hi, I’m a Data Analyst passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.<br><br>🔹 Skilled in Excel, SQL/MySQL, Power BI, and Tableau<br>🔹 Experienced in data cleaning, analysis, visualization, and dashboard development<br>🔹 Always learning new tools and techniques to improve my analytical skills<br><br>📊 Turning Data into Insights | Building Dashboards | Solving Business Problems
 
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+ # 📜 Certification
+   • Deloitte Certificate : Data Analytics Job Simulation
+   • ExcelR : Data Analyst 
+   • Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)
+   • Internship Certificate : Ai Variant
+
+
+# 📌 My Skill
+ 📊 Data Visualization
+    •📈 Power BI
+    •📉 Tableau
+    •📊 Excel
+    
+# 💻 Programming & Querying
+   •🗄️ SQL (Intermediate)
+   •🧮 DAX (Intermediate)
+   •💻 Python (Intermediate)
+
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dayana1810&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
