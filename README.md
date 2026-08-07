@@ -13,7 +13,7 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dayana1810&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Dayana1810&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?
+
 
 ---
 
