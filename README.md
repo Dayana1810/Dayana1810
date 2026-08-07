@@ -9,22 +9,22 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 
  # 📜 Certification
-   • Deloitte Certificate : Data Analytics Job Simulation
-   • ExcelR : Data Analyst 
-   • Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)
-   • Internship Certificate : Ai Variant
+  <br> • Deloitte Certificate : Data Analytics Job Simulation<br>
+   <br>• ExcelR : Data Analyst <br>
+   <br>• Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
+   <br>• Internship Certificate : Ai Variant<br>
 
 
 # 📌 My Skill
- 📊 Data Visualization
-    •📈 Power BI
-    •📉 Tableau
-    •📊 Excel
+<br> 📊 Data Visualization<br>
+    <br>•📈 Power BI<br>
+    <br>•📉 Tableau<br>
+    <br>•📊 Excel<br>
     
 # 💻 Programming & Querying
-   •🗄️ SQL (Intermediate)
-   •🧮 DAX (Intermediate)
-   •💻 Python (Intermediate)
+   <br>•🗄️ SQL (Intermediate)<br>
+   <br>•🧮 DAX (Intermediate)<br>
+   <br>•💻 Python (Intermediate)<br>
 
  
 
