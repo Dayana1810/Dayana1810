@@ -10,9 +10,9 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
  # 📜 Certification
   <br> •  Deloitte Certificate : Data Analytics Job Simulation<br>
-   <br>•  ExcelR : Data Analyst <br>
-   <br>•  Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
-   <br>•  Internship Certificate : Ai Variant<br>
+  <br> •  ExcelR : Data Analyst <br>
+  <br> •  Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
+  <br> •  Internship Certificate : Ai Variant<br>
 
 
 # 📌 My Skill
@@ -34,22 +34,6 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 
 ---
-
-
-# ✏️ How to personalise
-
-| Placeholder | What to fill in |
-|---|---|
-| `Your Name` | `DAYANA` |  
-| `Your Degree` | `Bachelor of Commerce (B.Com)` |
-| `Your Major` | `Accounting` |
-| `Your University / College Name` | `Dharwad` |
-| `Year` | `2024` |
-| `youremail@gmail.com` | dayanacharya@gmail.com |
-| `your Linkedin profile` | https://www.linkedin.com/in/dayana-acharya-254560382/ |
-| `your github profile` | https://github.com/Dayana1810|
-
-
 
 
 
