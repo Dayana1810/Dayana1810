@@ -1,6 +1,6 @@
-   #  Hi 👋, I'am DAYANA 
+    ##  Hi 👋, I'am DAYANA 
 
-A clean, responsive personal portfolio website for a fresher Data Analyst. Built with plain HTML, CSS, and JavaScript — no frameworks, no build steps. Deploy in minutes.
+  A Passionate Data Analyst From India.
 
 
 # 💫 About Me:
