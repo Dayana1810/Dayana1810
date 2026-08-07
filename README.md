@@ -9,15 +9,13 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TABLEAU](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![POWER BI](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dayana1810&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Dayana1810&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?
 
 ---
-[![](https://komarev.com/ghpvc/?username=Dayana1810&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # ✏️ How to personalise
