@@ -17,9 +17,9 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 # 📌 My Skill
 <br> 📊 Data Visualization<br>
-    <br>•📈 Power BI<br>
+    <br>•📈 Excel<br>
     <br>•📉 Tableau<br>
-    <br>•📊 Excel<br>
+    <br>•📊 Power BI<br>
     
 # 💻 Programming & Querying
    <br>•🗄️ SQL (Intermediate)<br>
