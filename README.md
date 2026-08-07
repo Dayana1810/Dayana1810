@@ -16,10 +16,10 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 
 # 📌 My Skill
- 📊 Data Visualization
-    •📈 Power BI
-    •📉 Tableau
-    •📊 Excel
+ |📊 Data Visualization|
+    |•📈 Power BI|
+    |•📉 Tableau|
+   | •📊 Excel|
     
 # 💻 Programming & Querying
    •🗄️ SQL (Intermediate)
