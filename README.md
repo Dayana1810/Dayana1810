@@ -3,25 +3,25 @@
   A Passionate Data Analyst From India.
 
 
-# 💫 About Me:
+## 💫 About Me:
 Hi, I’m a Data Analyst passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.<br><br>🔹 Skilled in Excel, SQL/MySQL, Power BI, and Tableau<br>🔹 Experienced in data cleaning, analysis, visualization, and dashboard development<br>🔹 Always learning new tools and techniques to improve my analytical skills<br><br>📊 Turning Data into Insights | Building Dashboards | Solving Business Problems
 
 
 
- # 📜 Certification
+ ## 📜 Certification
   <br> •  Deloitte Certificate : Data Analytics Job Simulation<br>
   <br> •  ExcelR : Data Analyst <br>
   <br> •  Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
   <br> •  Internship Certificate : Ai Variant<br>
 
 
-# 📌 My Skill
+## 📌 My Skill
 <br> 📊 Data Visualization<br>
     <br>•📈 Excel<br>
     <br>•📉 Tableau<br>
     <br>•📊 Power BI<br>
     
-# 💻 Programming & Querying
+## 💻 Programming & Querying
    <br>•🗄️ SQL (Intermediate)<br>
    <br>•🧮 DAX (Intermediate)<br>
    <br>•💻 Python (Intermediate)<br>
