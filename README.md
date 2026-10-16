@@ -13,6 +13,7 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
   <br> •  ExcelR : Data Analyst <br>
   <br> •  Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
   <br> •  Internship Certificate : Ai Variant<br>
+  <br> • NASSCOM (National Skill Development Corporation<br>
 
 
 ## 📌 My Skill
