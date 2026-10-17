@@ -21,6 +21,8 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
     <br>•📈 Excel<br>
     <br>•📉 Tableau<br>
     <br>•📊 Power BI<br>
+    <br>• MySQL <br>
+    <br>• Basic Python <br>
     
 ## 💻 Programming & Querying
    <br>•🗄️ SQL (Intermediate)<br>
