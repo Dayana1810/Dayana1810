@@ -18,11 +18,11 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 ## 📌 My Skill
 <br> 📊 Data Visualization<br>
-    <br>•📈 Excel<br>
-    <br>•📉 Tableau<br>
-    <br>•📊 Power BI<br>
-    <br>• MySQL <br>
-    <br>• Basic Python <br>
+    <br>• Excel -Pivot Tables, VLOOKUP/XLOOKUP, IF/COUNTIFS/SUMIFS, Data Cleaning, Charts, Dashboards<br>
+    <br>• Tableau -: Interactive Dashboards, Calculated Fields, Filters & Parameters, Data Storytelling<br>
+    <br>• Power BI -Data Modelling, Power Query, DAX Measures, KPI Cards, Report Design<br>
+    <br>• MySQL -SELECT, Joins, Subqueries, Group By, Window Functions, CTEs, Views, Data Cleaning with SQL<br>
+    <br>• Basic Python -: Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA).<br>
     
 ## 💻 Programming & Querying
    <br>•🗄️ SQL (Intermediate)<br>
