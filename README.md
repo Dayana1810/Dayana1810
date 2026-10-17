@@ -9,7 +9,8 @@ Hi, I’m a Data Analyst passionate about transforming raw data into meaningful 
 
 
  ## 📜 Certification
-  <br> •  Deloitte Certificate : Data Analytics Job Simulation<br> <br> •  https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_699d449700c34e01c9e45d3f_1772821114252_completion_certificate.pdf?raw=1<br>  
+  <br> •  Deloitte Certificate : Data Analytics Job Simulation<br> 
+  <br> •  https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_699d449700c34e01c9e45d3f_1772821114252_completion_certificate.pdf?raw=1<br>  
   <br> •  ExcelR : Data Analyst <br>
   <br> •  Novi Tech The Innovation Partner : Data Analyst (30 Days Challenge)<br>
   <br> •  Internship Certificate : Ai Variant<br>
